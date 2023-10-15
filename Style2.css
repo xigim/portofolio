@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Syriac+Eastern:wght@600&display=swap');
+
+.body {
+    padding: 0;
+    margin: 0;
+}
+
+.nama {
+    padding-top: 5;
+    padding-left: 60;
+    font-size: x-small;
+    background-color: efefef;
+    position: relative;
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.top-container {
+background-image: url(bck2.png);
+background-repeat: no-repeat;
+padding: 59px;
+background-size: cover;
+text-align: left;
+border-bottom-left-radius: 100px;
+border-bottom-right-radius: 100px;
+}
+
+.image1 {
+    float: left;
+    width: 500px;
+    height: 625px;
+    padding-left: 220;
+}
+
+.title {
+    font-size: 59px;
+    padding-right: 80;
+    padding-left: 800;
+    font-family: 'Noto Sans Syriac Eastern', sans-serif;
+}
+
+.alamat {
+    padding-left: 800;
+    position: relative;
+    bottom: 35px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.mywork {
+    font-size: 60px;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    bottom: 17;
+    display: flex;
+    align-items: center;
+    padding-left: 100;
+}
+
+.container-video {
+    background-color: e8e8e8;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    padding: 20px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+
+
+.video1{
+    position: relative;
+    left: 100;
+    top: 100;
+    border-radius: 10px;
+    border: transparent;
+    transition: transform 0.3s ease;
+}
+
+
+.video1:hover {
+    transform: scale(1.1);
+}
+
+.video2{
+    position: relative;
+    left: 200;
+    top: 100;
+    border: transparent;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.video2:hover {
+    transform: scale(1.1);
+}
+
+
+.video3{
+    position: relative;
+    left: 320;
+    top: 100;
+    border: transparent;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.video3:hover {
+    transform: scale(1.1);
+}
+
+.video4{
+    position: relative;
+    left: 100;
+    top: 150;
+    border: transparent;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.video4:hover {
+    transform: scale(1.1);
+}
+
+.video5{
+    position: relative;
+    left: 200;
+    top: 150;
+    border: transparent;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.video5:hover {
+    transform: scale(1.1);
+}
+
+.video6{
+    position: relative;
+    left: 320;
+    top: 150;
+    border: transparent;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.video6:hover {
+    transform: scale(1.1);
+}
+
+.video7{
+    position: relative;
+    left: 100;
+    top: 200;
+    border: transparent;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.video7:hover {
+    transform: scale(1.1);
+}
+
+.video8{
+    position: relative;
+    left: 200;
+    top: 200;
+    border: transparent;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.video8:hover {
+    transform: scale(1.1);
+}
+
+.video9{
+    position: relative;
+    left: 320;
+    top: 200;
+    border: transparent;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.video9:hover {
+    transform: scale(1.1);
+}
+
+.video10{
+    position: relative;
+    left: 100;
+    top: 250;
+    border: transparent;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+.video10:hover {
+    transform: scale(1.1);
+}
+
+.video11{
+    position: relative;
+    left: 200;
+    top: 250;
+    border: transparent;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+.video11:hover {
+    transform: scale(1.1);
+}
+
+.video12{
+    position: relative;
+    left: 320;
+    top: 250;
+    border: transparent;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+.video12:hover {
+    transform: scale(1.1);
+}
+
+.video13{
+    position: relative;
+    left: 400;
+    top: -40;
+    border-radius: 10px;  
+    border:transparent;
+    transition: transform 0.3s ease;
+}
+.video13:hover {
+    transform: scale(1.1);
+}
+
+.video14{
+    position: relative;
+    left: 500;
+    top: -40;
+    border-radius: 10px;
+    border: transparent;
+    transition: transform 0.3s ease;
+}
+.video14:hover {
+    transform: scale(1.1);
+}
+
+.video15 {
+    position: relative;
+    padding-top: 350px;
+    border-radius: 10px;
+    border: transparent;
+    transition: transform 0.3s ease;
+}
+
+.spacer {
+    height: 400px;
+}
